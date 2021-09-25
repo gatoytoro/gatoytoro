@@ -1,5 +1,3 @@
-To whom it may concern:
-
 Hi! 
 
 My name is Marcos and I am currently looking for a new position in software development. 
