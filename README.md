@@ -1,4 +1,4 @@
-Mostly python, SQL, data analytics, and solidity to solve problems in the real-world.
+Mostly using python, SQL, data analytics, and solidity to solve problems in the real-world.
 
                     --Marcos
 <!---
